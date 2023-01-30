@@ -19,6 +19,7 @@ function App() {
       <Joke
         setup="Why do bees stay in the hive in the winter?"
         punchline="Swarm."
+        
       />
       <Joke
         setup="What's the best thing about Switzerland?"
